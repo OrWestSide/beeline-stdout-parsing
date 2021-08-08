@@ -15,7 +15,4 @@ if __name__ == '__main__':
         io_repo=IORepository()
     )
     uc.execute(file_parse)
-    # qes_file_path = arguments.QueryExecutionSummary
 
-    # with open(file, 'r') as f:
-    #     print(f.readlines())
