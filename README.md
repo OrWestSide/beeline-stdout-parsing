@@ -1,4 +1,4 @@
-# Beeline Response Parser
+# Beeline stdout Parsing
 
 This project was developed in the context of the programming assignment
 put by Agile Actors for the Backend Software Engineer in Python. It is a 
